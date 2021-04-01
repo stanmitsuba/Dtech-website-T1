@@ -1,16 +1,24 @@
 .h3{
 
-font-family: 'Fjalla One', sans-serif;
+
 
 }
 
+.header{
+
+
+background-color: #2a2830
+
+
+}
 
 /*   */
 .nav{
 
    background-color: #BBB8B2;
-   height: 80px;
 }
+
+
 .button {
   border-radius: 4px;
   background-color: #BBB8B2;
