@@ -36,4 +36,59 @@ background-color: #bbb8b2;
 padding: 20px;
 }
 
+/* 'about' images */
+
+.Houselogo{
+padding: 20px;
+height: 400px;
+width: 400px;
+}
+
+
+.Map{
+
+padding: 20px;
+height: 400px;
+width: 400px;
+}
+
+
+/* House text*/
+.Pukeatua{
+
+color: rgb(221,106,18);
+font-weight: bold;
+}
+
+.Pukeariki{
+
+color: rgb(106,46,146);
+font-weight: bold;
+}
+
+.Remutaka{
+color: rgb(0,113,61);
+font-weight: bold;
+
+}
+
+.Tararua{
+color: rgb(22,191,238);
+font-weight: bold;
+}
+
+.Orongorongo{
+color: rgb(238,35,117);
+font-weight: bold;
+}
+
+.Matairangi{
+color: rgb(255,222,0);
+font-weight: bold;
+}
+
+/* */
+
+
+
 
