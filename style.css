@@ -40,16 +40,16 @@ padding: 20px;
 
 .Houselogo{
 padding: 20px;
-height: 400px;
-width: 400px;
+height: 300px;
+width: 300px;
 }
 
 
 .Map{
 
 padding: 20px;
-height: 400px;
-width: 400px;
+height: 300px;
+width: 300px;
 }
 
 
@@ -90,5 +90,10 @@ font-weight: bold;
 /* */
 
 
+.images{
 
+padding: 20px;
+width: 250px;
+height: 250px;
 
+}
